@@ -14,6 +14,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=briangtg&theme=dark&hide_border=true&locale=id" alt="GitHub Streak" />
   </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briangtg&layout=compact&theme=dark" />
+</p>
+
 
 ### ✍️ Random Dev Quote
 <p align="center">
