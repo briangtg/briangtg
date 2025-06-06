@@ -10,10 +10,10 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=briangtg&theme=dark&hide_border=true&locale=id)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=briangtg&theme=dark&hide_border=true&locale=id" alt="GitHub Streak" />
+  </a>
 </p>
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
