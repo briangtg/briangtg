@@ -1,5 +1,5 @@
-# 💫 About Me:
-### 👋 Hi, I'm Brian!<br><br>I'm a student currently learning web development, focusing on **HTML**, **CSS**, and **JavaScript**. I'm also exploring modern UI frameworks like **Bootstrap** and **Tailwind CSS**.<br><br>Right now, I'm working on a project called **Suumik**, a digital platform to help local small businesses (UMKM) grow and scale up — developed as part of my internship (PKL) experience.<br><br>🌱 I'm passionate about tech that empowers communities  <br>🔧 Learning by doing, one project at a time  <br>📍 Based in Indonesia  <br>
+# 👋 Hi, I'm Brian!
+### 💫 About Me:<br><br>I'm a student currently learning web development, focusing on **HTML**, **CSS**, and **JavaScript**. I'm also exploring modern UI frameworks like **Bootstrap** and **Tailwind CSS**.<br><br>Right now, I'm working on a project called **Suumik**, a digital platform to help local small businesses (UMKM) grow and scale up — developed as part of my internship (PKL) experience.<br><br>🌱 I'm passionate about tech that empowers communities  <br>🔧 Learning by doing, one project at a time  <br>📍 Based in Indonesia  <br>
 
 
 ## 🌐 Socials:
